@@ -1,0 +1,2 @@
+You must to download the custumer_reviews.tsv file using the following link and save it into dateset folder.
+link: https://famu-my.sharepoint.com/:u:/g/personal/carlos_theran_famu_edu/EV14N-gK_6RGqOfQYZ4q6igBxxYdlpv6BRUJmAgK7Et4gQ?e=zyIN9M
